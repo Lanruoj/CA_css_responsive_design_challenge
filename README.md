@@ -14,6 +14,6 @@ It's starting to look better, but at a certain point, the sidebar just becomes t
 
 1. Use a media breakpoint to hide the blue sidebar whenever the screen width drops below ```600px``` , when this happens, the article should take up 100% of the screen
 
-    1. *You can hide an element by giving it a ```display: none; property.```*
+    1. *You can hide an element by giving it a ```display: none;``` property.*
 
 Use another media breakpoint to change the percentages that the sidebar/article take up with a large screen size. If the screen-size get's above ```1000px``` have the article take up 80% of the width and the sidebar take up 15%.
